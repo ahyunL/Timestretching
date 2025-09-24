@@ -1,5 +1,8 @@
 # UROP - Whisper 모델을 활용한 음성 데이터 시간축 변형 기반데이터 증강 및 음성 인식 성능 평가
 
+<img width="939" height="268" alt="research_pipeline(urop)" src="https://github.com/user-attachments/assets/dab4c8d4-e3fa-4a4b-9fde-f33ebebda4d2" />
+
+
 ## 📌 프로젝트 개요
 본 레포지토리는 OpenAI Whisper 모델을 활용한 음성 인식 연구를 위한 코드와 실험 결과를 담고 있습니다.  
 특히 시간축 변형(Time-Stretching) 데이터 증강 기법을 적용하여 인식 성능 향상을 평가합니다.

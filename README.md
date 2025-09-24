@@ -1,6 +1,6 @@
 # UROP - Whisper 모델을 활용한 음성 데이터 시간축 변형 기반데이터 증강 및 음성 인식 성능 평가
 
-<img width="939" height="268" alt="research_pipeline(urop)" src="https://github.com/user-attachments/assets/dab4c8d4-e3fa-4a4b-9fde-f33ebebda4d2" />
+<img width="949" height="270" alt="research_pipeline(urop)" src="https://github.com/user-attachments/assets/ab02d585-7928-43ee-8623-4b764473bc6b" />
 
 
 ## 📌 프로젝트 개요
